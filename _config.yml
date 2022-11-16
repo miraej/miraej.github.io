@@ -107,7 +107,7 @@ author:
   name             : "mirae Jung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The more we do, the more we can do."
-  location         : ""
+  location         : # 
   email            :
   links:
     - label: "Email"
