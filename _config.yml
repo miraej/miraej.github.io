@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "j.log"
+title                    : "mirae's devlog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "mirae Jung"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "mirae Jung"
+  name             : "mirae Jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "鈍筆勝聰"
+  bio              : ""
   location         : # 
   email            :
   links:
